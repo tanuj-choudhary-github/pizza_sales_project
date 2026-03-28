@@ -25,11 +25,11 @@ The analysis helps uncover key insights such as **top-selling pizzas, peak order
 
 The dataset consists of four CSV files:
 
-* **order_details.csv**  
-* **orders.csv**  
-* **pizza_types.csv**  
-* **pizzas.csv**  
- 
+- <a href="https://github.com/tanuj-choudhary-github/pizza_sales_project/blob/main/orders.csv">Orders<br></a>
+- <a href="https://github.com/tanuj-choudhary-github/pizza_sales_project/blob/main/order_details.csv">Order Details<br></a>
+- <a href="https://github.com/tanuj-choudhary-github/pizza_sales_project/blob/main/pizzas.csv">Pizzas<br></a>
+- <a href="https://github.com/tanuj-choudhary-github/pizza_sales_project/blob/main/pizza_types.csv">Pizza Types<br></a>
+- <a href="https://github.com/tanuj-choudhary-github/pizza_sales_project/blob/main/sql_pizza_sales_project.sql">SQL Queries<br></a>
 ---
 
 ## 🛠️ Tools & Technologies
